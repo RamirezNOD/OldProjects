@@ -1,0 +1,12 @@
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.Form1.resources
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.automovil.resources
+D:\Datos\Documents\TEC\Coni\Semaforo\Semaforo\obj\Debug\Semaforo.Mapa.resources
